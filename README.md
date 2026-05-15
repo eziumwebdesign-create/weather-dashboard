@@ -41,4 +41,4 @@ New York, Los Angeles, Chicago, Miami, London, Tokyo, Paris, College Park and mo
 
 ## Author
 
-Your Name · LinkedIn · GitHub
+Ezio Zaytoun
